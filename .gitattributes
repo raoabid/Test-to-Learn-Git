@@ -1,3 +1,4 @@
 /test export-ignore  
 .gitattributes export-ignore  
 .gitignore export-ignore
+this_directory_should_not_be_in_zip export-ignore
